@@ -1,0 +1,7 @@
+reto5\crudb\DAO\ISerieImpl.class
+reto5\crudb\DAO\BaseDatos.class
+reto5\crudb\DAO\Interfaces\ISerie.class
+reto5\crudb\DAO\Interfaces\IUsuario.class
+reto5\crudb\Modelos\Usuario.class
+reto5\crudb\DAO\IUsuarioImpl.class
+reto5\crudb\Modelos\Serie.class
